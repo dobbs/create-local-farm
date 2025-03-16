@@ -1,0 +1,14 @@
+{
+  "name": "create-local-farm",
+  "version": "0.5.0",
+  "description": "create a local wiki farm",
+  "type": "module",
+  "bin": {
+    "create-local-farm": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Eric Dobbs",
+  "license": "MIT"
+}
